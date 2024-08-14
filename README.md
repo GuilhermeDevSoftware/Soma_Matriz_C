@@ -12,7 +12,7 @@ Um programa simples em C para somar duas matrizes 3x3.
 
 1. **Clone o repositório:**
     ```bash
-    git clone https://github.com/seuusuario/soma-matriz.git
+    git clone https://github.com/GuilhermeDevSoftware/Soma_Matriz_C 
     ```
 
 2. **Compile o código:**
